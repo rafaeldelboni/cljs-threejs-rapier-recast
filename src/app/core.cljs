@@ -1,7 +1,7 @@
 (ns app.core
   (:require
    ["@dimforge/rapier3d-compat" :as rapier]
-   ["@recast-navigation/core" :rename {init init-recast} :refer [Crowd]]
+   ["@recast-navigation/core" :refer [init Crowd] :rename {init init-recast}]
    ["@recast-navigation/three" :refer [NavMeshHelper threeToSoloNavMesh]]
    ["three/addons/controls/OrbitControls.js" :refer [OrbitControls]]
    ["three/addons/environments/RoomEnvironment.js" :refer [RoomEnvironment]]

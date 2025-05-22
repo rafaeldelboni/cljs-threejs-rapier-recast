@@ -67,3 +67,4 @@ npx http-server resources/public -g
 ## Another studies
 - [cljs-babylon-havok](https://github.com/rafaeldelboni/cljs-babylon-havok)
 - [cljs-threejs-rapier](https://github.com/rafaeldelboni/cljs-threejs-rapier)
+- [squint-threejs-rapier-recast](https://github.com/rafaeldelboni/squint-threejs-rapier-recast)
